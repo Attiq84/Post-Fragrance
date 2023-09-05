@@ -1,0 +1,223 @@
+{%- style -%}
+  .section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+{%- endstyle -%}
+
+
+<div class="page-width" data-aos="logo__animation">
+  {% if section.settings.title != blank %}
+  <div class="section-header">
+    <h2 class="section-header__title">{{ section.settings.title }}</h2>
+  </div>
+  {% endif %}
+
+  {% if section.blocks.size > 0 %}
+  <div class="logo-bar logo-bar--{{ section.id }}">
+    {% for block in section.blocks %}
+    <div class="logo-bar__item newve" {{ block.shopify_attributes }}>
+      {% if block.settings.link != blank %}
+      <a href="{{ block.settings.link }}" class="logo-bar__link">
+      {% endif %}
+      {% if block.settings.image != blank %}
+      <img class="logo-bar__image lazyload" src="{{ block.settings.image | img_url: '150x' }}"
+        data-widths="[180, 360, 540, 720]" data-aspectratio="{{ block.settings.image.aspect_ratio }}" data-sizes="auto"
+        alt="{{ block.settings.image.alt }}">
+      {% else %}
+      {{ 'logo' | placeholder_svg_tag: 'placeholder-svg' }}
+      {% endif %}
+      {% if block.settings.link != blank %}
+      </a>
+      {% endif %}
+      <span class="head-1">
+        <h3>{{ block.settings.title | escape }}</h3>
+      </span>
+      <span class="para-1">
+        <p>{{ block.settings.text-1 }}</p>
+      </span>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+
+
+
+{% schema %}
+{
+  "name": "Logo Carousal",
+  "tag": "section",
+  "class": "section",
+  "max_blocks": 10,
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Heading"
+    },
+    {
+      "type": "range",
+      "id": "logo_opacity",
+      "label": "Logo opacity",
+      "default": 76,
+      "min": 0,
+      "max": 100,
+      "step": 2,
+      "unit": "%"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.all.padding.section_padding_heading"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 36
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 36
+    }
+  ],
+  "blocks": [
+    {
+      "type": "logo_image",
+      "name": "Logo",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Heading",
+          "default": "heading"
+        },
+        {
+          "type": "url",
+          "id": "link",
+          "label": "Link",
+          "info": "Optional"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Logo Carousal",
+      "blocks": [
+        {
+          "type": "logo_image"
+        },
+        {
+          "type": "logo_image"
+        },
+        {
+          "type": "logo_image"
+        },
+        {
+          "type": "logo_image"
+        },
+         {
+          "type": "logo_image"
+        },
+         {
+          "type": "logo_image"
+        },
+        {
+          "type": "logo_image"
+        },
+         {
+          "type": "logo_image"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}
+
+{% style %}
+.logo-bar--{{ section.id }} {
+  opacity: {{ section.settings.logo_opacity | divided_by: 100.0 }};
+}
+
+.logo-bar {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow:hidden;
+}
+
+.logo-bar__item {
+  flex: 0 0 200px;
+  margin: 0 30px 20px;
+}
+
+@keyframes carousel {
+  0%, 100% {
+    transform: translateX(0);
+  }
+  12.5% {
+    transform: translateX(-110%);
+  }
+  25% {
+    transform: translateX(-220%);
+  }
+  37.5% {
+    transform: translateX(-280%);
+  }
+  50% {
+    transform: translateX(-340%);
+  }
+  62.5% {
+    transform: translateX(-400%);
+  }
+  75% {
+    transform: translateX(-440%);
+  }
+  87.5% {
+    transform: translateX(-470%);
+  }
+}
+
+
+
+
+.logo-bar__item {
+  animation: carousel 10s infinite;
+}
+h2.section-header__title {
+    text-align: center;
+  font-weight:700;
+  font-size:35px;
+}
+  span.head-1 {
+    text-align: center;
+}
+@media only screen and (max-width: 600px) {
+  .logo-bar__item {
+    flex: 0 0 115px;
+    margin: 0 30px 20px;
+  }
+}
+{% endstyle %}

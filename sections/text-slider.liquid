@@ -1,0 +1,53 @@
+<div class="bg-new">
+  <marquee behavior="scroll" style="animation: scroll-left 10s linear infinite;" >
+ <div class="slick marquee">
+ {%- for block in section.blocks -%}
+               <h2 class="new"> {{ block.settings.title1 | escape }} </h2>
+   {% endfor %} 
+       </div>
+   </marquee>
+</div>
+{% schema %}
+  {
+    "name": "Text Slider",
+    "settings": [
+    ],
+     "blocks": [
+       {
+      "type": "text",
+      "name": "text",
+      "settings": [
+         {
+          "type": "text",
+          "id": "title1",
+          "default": "Free Shipping",
+          "label": "text"
+        }
+      ]
+       }
+     ], "presets": [
+    {
+      "name": "Text slider",
+      "blocks": [
+        {
+          "type": "text"
+        }
+      ]
+    }
+  ]
+  }
+{% endschema %}
+
+<style>
+ marquee{
+                -moz-animation: scroll-left 2s linear infinite;
+                -webkit-animation: scroll-left 2s linear infinite;
+                animation: scroll-left 20s linear infinite;}
+   .bg-new {
+    background-color: #000;
+}
+  h2.new {
+    color: white;
+    font-size:35px;
+}
+</style>
