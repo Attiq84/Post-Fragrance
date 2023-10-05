@@ -1,1 +1,511 @@
-{"sections":{"7ff84740-c449-40aa-a98e-0fe1b0f0fb5b":{"type":"Countdown-banner","blocks":{"e2a2d47c-8008-443e-be5c-fe440243f176":{"type":"text","settings":{"header":"GET 50% OFF AND A FREE CASE","header_color":"#000000","header_font_size":60,"paragraph":"Indulge in new designer scents every month for just $16.95.","paragraph_color":"#000000","paragraph_font_size":25}},"51cd5452-0f12-44d1-99df-078c222a4fe3":{"type":"button","settings":{"button_text":"BUY NOW","button_url":"https:\/\/postfragrance.com\/collections\/fragrance","button_text_color":"#ffffff","button_background_color":"#000000","button_border_radius":0,"button_border_width":0,"button_border_color":"#000000","button_font_size":16}},"04383d05-d35d-410a-958f-a8178d7c99f3":{"type":"timer","settings":{"countdown_date":"Dec 31, 2023","countdown_text":"END IN:"}}},"block_order":["e2a2d47c-8008-443e-be5c-fe440243f176","51cd5452-0f12-44d1-99df-078c222a4fe3","04383d05-d35d-410a-958f-a8178d7c99f3"],"settings":{"full_width":false,"section_height_desktop":650,"section_height_mobile":300,"desktop_image":"shopify:\/\/shop_images\/desktop-hero_a4e0fb.webp","blur_amount":0,"overlay_color":"#000000","border_radius":0,"background_color":"#ffffff","section_padding":0}},"8ec885af-3677-40c4-9c3a-be213ac0fa4f":{"type":"logo-list","blocks":{"template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-1":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/brands_-3.png","title":"","link":""}},"template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-2":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/brands_-2.png","title":"","link":""}},"template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-3":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/brands_-4.png","title":"","link":""}},"template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-4":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/brands_-5.png","title":"","link":""}},"template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-5":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/brands_9200d8_copy.png","title":"","link":""}},"template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-6":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/brands_-1.png","title":"","link":""}},"a5f51a8d-a4a5-4bca-9d42-dd0fb3e50eba":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/brands_-4.png","title":"","link":""}},"55b3e7f6-0d96-4547-bb30-4331df2d2cd2":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/brands_-2.png","title":"","link":""}}},"block_order":["template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-1","template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-2","template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-3","template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-4","template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-5","template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-6","a5f51a8d-a4a5-4bca-9d42-dd0fb3e50eba","55b3e7f6-0d96-4547-bb30-4331df2d2cd2"],"custom_css":[],"settings":{"title":"BRANDS","logo_opacity":100,"padding_top":0,"padding_bottom":0}},"featured_collection":{"type":"featured-collection","settings":{"title":"Featured products","heading_size":"h2","description":"","show_description":false,"description_style":"body","collection":"all","products_to_show":8,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"background-1","image_ratio":"adapt","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"43579be8-d445-46b0-a2c4-e702dbbf4f89":{"type":"rich-text","blocks":{"template--20040277295396__43579be8-d445-46b0-a2c4-e702dbbf4f89-heading-1":{"type":"heading","settings":{"heading":"Our Brand","heading_size":"h1"}},"template--20040277295396__43579be8-d445-46b0-a2c4-e702dbbf4f89-text-1":{"type":"text","settings":{"text":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"}}},"block_order":["template--20040277295396__43579be8-d445-46b0-a2c4-e702dbbf4f89-heading-1","template--20040277295396__43579be8-d445-46b0-a2c4-e702dbbf4f89-text-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":40,"padding_bottom":52}},"8532ef33-e07f-4570-aa2e-2a1906e4db5b":{"type":"image-banner","settings":{"image":"shopify:\/\/shop_images\/bg-desktop_e51f66.jpg","image_overlay_opacity":0,"image_height":"medium","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"a666f6c8-7713-45e9-a35b-6661692d83ac":{"type":"text-slider","blocks":{"template--20040277295396__a666f6c8-7713-45e9-a35b-6661692d83ac-text-1":{"type":"text","settings":{"title1":"Free Shipping Free Shipping Free Shipping Free Shipping Free Shipping Free Shipping Free Shipping Free ShippingFree ShippingFree ShippingFree Shipping Free Shipping Free Shipping Free Shipping Free Shipping Free Shipping"}}},"block_order":["template--20040277295396__a666f6c8-7713-45e9-a35b-6661692d83ac-text-1"],"settings":{}},"ca00c60c-1272-4fd8-a30e-dd7d87e1262c":{"type":"multicolumn","blocks":{"template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/how-1_9f7abc.jpg","title":"","text":"","link_label":"Shop Now","link":"shopify:\/\/collections\/candles"}},"template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/how-2_7dcc25.jpg","title":"","text":"","link_label":"Shop Now","link":"shopify:\/\/collections\/mens-fragrance"}},"template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-3":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/how-3_dcf981.jpg","title":"","text":"","link_label":"Shop Now","link":"shopify:\/\/collections\/womens-fragrance"}}},"block_order":["template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-1","template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-2","template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-3"],"settings":{"title":"OUR BEST FRGRANCE","image_width":"full","image_ratio":"circle","columns_desktop":3,"column_alignment":"center","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":80,"padding_bottom":36}},"5d8b6c96-5e1e-4631-917e-69c787546259":{"type":"image-with-text","blocks":{"template--20040277295396__5d8b6c96-5e1e-4631-917e-69c787546259-heading-1":{"type":"heading","settings":{"heading":"<strong>TOP CURATED FRAGRANCES<\/strong>","heading_size":"h1"}},"template--20040277295396__5d8b6c96-5e1e-4631-917e-69c787546259-text-1":{"type":"text","settings":{"text":"<p>We offer the best designer and niche fragrances on the market selected by our team of experts.<\/p>","text_style":"body"}},"template--20040277295396__5d8b6c96-5e1e-4631-917e-69c787546259-button-1":{"type":"button","settings":{"button_label":"BUY NOW","button_link":"shopify:\/\/collections\/aromatherapy"}}},"block_order":["template--20040277295396__5d8b6c96-5e1e-4631-917e-69c787546259-heading-1","template--20040277295396__5d8b6c96-5e1e-4631-917e-69c787546259-text-1","template--20040277295396__5d8b6c96-5e1e-4631-917e-69c787546259-button-1"],"settings":{"image":"shopify:\/\/shop_images\/bg-0-desktop_aef261.webp","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"accent-2","image_behavior":"none","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"ceb28c05-6297-42c7-aa66-5fc1b7ec80e2":{"type":"collection-list","blocks":{"template--20040277295396__ceb28c05-6297-42c7-aa66-5fc1b7ec80e2-featured_collection-3":{"type":"featured_collection","settings":{"collection":"bath-and-body"}},"template--20040277295396__ceb28c05-6297-42c7-aa66-5fc1b7ec80e2-featured_collection-1":{"type":"featured_collection","settings":{"collection":"candles"}},"template--20040277295396__ceb28c05-6297-42c7-aa66-5fc1b7ec80e2-featured_collection-2":{"type":"featured_collection","settings":{"collection":"skin-care"}}},"block_order":["template--20040277295396__ceb28c05-6297-42c7-aa66-5fc1b7ec80e2-featured_collection-3","template--20040277295396__ceb28c05-6297-42c7-aa66-5fc1b7ec80e2-featured_collection-1","template--20040277295396__ceb28c05-6297-42c7-aa66-5fc1b7ec80e2-featured_collection-2"],"settings":{"title":"","heading_size":"h1","image_ratio":"square","columns_desktop":3,"color_scheme":"","show_view_all":false,"columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"0f028aed-b7ba-4eed-a77e-e355e49bd532":{"type":"Countdown-banner","blocks":{"c5205061-db80-4ed2-90a2-b305f2bd8566":{"type":"text","settings":{"header":"BUT DON'T JUST TAKE OUR WORD FOR IT","header_color":"#000000","header_font_size":36,"paragraph":"SEE WHAT OVER 500K FRAGRANCE FANATICS HAVE TO SAY","paragraph_color":"#000000","paragraph_font_size":16}}},"block_order":["c5205061-db80-4ed2-90a2-b305f2bd8566"],"settings":{"full_width":false,"section_height_desktop":600,"section_height_mobile":300,"desktop_image":"shopify:\/\/shop_images\/bg-desktop_1a9621.webp","blur_amount":0,"overlay_color":"#000000","border_radius":0,"background_color":"#ffffff","section_padding":10}},"54e69655-373b-43c5-be42-d170b40a2700":{"type":"testominals","blocks":{"template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-1":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}},"template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-2":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}},"template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-3":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}},"template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-4":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}},"template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-5":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}},"66c616a1-7f9c-48ce-a843-38e97b929cec":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}},"4ab06868-a48c-42df-a2e0-5bc0321c6af6":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}},"0e53c789-3e8d-4a61-b9b5-22a98d385ae0":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}}},"block_order":["template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-1","template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-2","template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-3","template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-4","template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-5","66c616a1-7f9c-48ce-a843-38e97b929cec","4ab06868-a48c-42df-a2e0-5bc0321c6af6","0e53c789-3e8d-4a61-b9b5-22a98d385ae0"],"settings":{"title":"","align_text":"center","round_images":true,"color_background":"rgba(0,0,0,0)","color_text":"#ffffff"}}},"order":["7ff84740-c449-40aa-a98e-0fe1b0f0fb5b","8ec885af-3677-40c4-9c3a-be213ac0fa4f","featured_collection","43579be8-d445-46b0-a2c4-e702dbbf4f89","8532ef33-e07f-4570-aa2e-2a1906e4db5b","a666f6c8-7713-45e9-a35b-6661692d83ac","ca00c60c-1272-4fd8-a30e-dd7d87e1262c","5d8b6c96-5e1e-4631-917e-69c787546259","ceb28c05-6297-42c7-aa66-5fc1b7ec80e2","0f028aed-b7ba-4eed-a77e-e355e49bd532","54e69655-373b-43c5-be42-d170b40a2700"]}
+{
+  "sections": {
+    "7ff84740-c449-40aa-a98e-0fe1b0f0fb5b": {
+      "type": "Countdown-banner",
+      "blocks": {
+        "e2a2d47c-8008-443e-be5c-fe440243f176": {
+          "type": "text",
+          "settings": {
+            "header": "GET 20% OFF BY SUBSCRIBING",
+            "header_color": "#000000",
+            "header_font_size": 52,
+            "paragraph": "Indulge in new designer scents every month for just $16.95.",
+            "paragraph_color": "#000000",
+            "paragraph_font_size": 25
+          }
+        },
+        "51cd5452-0f12-44d1-99df-078c222a4fe3": {
+          "type": "button",
+          "settings": {
+            "button_text": "BUY NOW",
+            "button_url": "https:\/\/postfragrance.com\/collections\/fragrance",
+            "button_text_color": "#ffffff",
+            "button_background_color": "#000000",
+            "button_border_radius": 0,
+            "button_border_width": 0,
+            "button_border_color": "#000000",
+            "button_font_size": 16
+          }
+        },
+        "04383d05-d35d-410a-958f-a8178d7c99f3": {
+          "type": "timer",
+          "settings": {
+            "countdown_date": "Dec 31, 2023",
+            "countdown_text": "END IN:"
+          }
+        }
+      },
+      "block_order": [
+        "e2a2d47c-8008-443e-be5c-fe440243f176",
+        "51cd5452-0f12-44d1-99df-078c222a4fe3",
+        "04383d05-d35d-410a-958f-a8178d7c99f3"
+      ],
+      "settings": {
+        "full_width": false,
+        "section_height_desktop": 650,
+        "section_height_mobile": 300,
+        "desktop_image": "shopify:\/\/shop_images\/desktop-hero_a4e0fb.webp",
+        "blur_amount": 0,
+        "overlay_color": "#000000",
+        "border_radius": 0,
+        "background_color": "#ffffff",
+        "section_padding": 0
+      }
+    },
+    "8ec885af-3677-40c4-9c3a-be213ac0fa4f": {
+      "type": "logo-list",
+      "blocks": {
+        "template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brands_-3.png",
+            "title": "",
+            "link": ""
+          }
+        },
+        "template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brands_-2.png",
+            "title": "",
+            "link": ""
+          }
+        },
+        "template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brands_-4.png",
+            "title": "",
+            "link": ""
+          }
+        },
+        "template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brands_-5.png",
+            "title": "",
+            "link": ""
+          }
+        },
+        "template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-5": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brands_9200d8_copy.png",
+            "title": "",
+            "link": ""
+          }
+        },
+        "template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-6": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brands_-1.png",
+            "title": "",
+            "link": ""
+          }
+        },
+        "a5f51a8d-a4a5-4bca-9d42-dd0fb3e50eba": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brands_-4.png",
+            "title": "",
+            "link": ""
+          }
+        },
+        "55b3e7f6-0d96-4547-bb30-4331df2d2cd2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brands_-2.png",
+            "title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-1",
+        "template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-2",
+        "template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-3",
+        "template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-4",
+        "template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-5",
+        "template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-6",
+        "a5f51a8d-a4a5-4bca-9d42-dd0fb3e50eba",
+        "55b3e7f6-0d96-4547-bb30-4331df2d2cd2"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "title": "BRANDS",
+        "logo_opacity": 100,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "43579be8-d445-46b0-a2c4-e702dbbf4f89": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20040277295396__43579be8-d445-46b0-a2c4-e702dbbf4f89-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--20040277295396__43579be8-d445-46b0-a2c4-e702dbbf4f89-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20040277295396__43579be8-d445-46b0-a2c4-e702dbbf4f89-heading-1",
+        "template--20040277295396__43579be8-d445-46b0-a2c4-e702dbbf4f89-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "8532ef33-e07f-4570-aa2e-2a1906e4db5b": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bg-desktop_e51f66.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "a666f6c8-7713-45e9-a35b-6661692d83ac": {
+      "type": "text-slider",
+      "blocks": {
+        "template--20040277295396__a666f6c8-7713-45e9-a35b-6661692d83ac-text-1": {
+          "type": "text",
+          "settings": {
+            "title1": "Free Shipping Free Shipping Free Shipping Free Shipping Free Shipping Free Shipping Free Shipping Free ShippingFree ShippingFree ShippingFree Shipping Free Shipping Free Shipping Free Shipping Free Shipping Free Shipping"
+          }
+        }
+      },
+      "block_order": [
+        "template--20040277295396__a666f6c8-7713-45e9-a35b-6661692d83ac-text-1"
+      ],
+      "settings": {
+      }
+    },
+    "ca00c60c-1272-4fd8-a30e-dd7d87e1262c": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/how-1_9f7abc.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/candles"
+          }
+        },
+        "template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/how-2_7dcc25.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/mens-fragrance"
+          }
+        },
+        "template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/how-3_dcf981.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/womens-fragrance"
+          }
+        }
+      },
+      "block_order": [
+        "template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-1",
+        "template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-2",
+        "template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-3"
+      ],
+      "settings": {
+        "title": "OUR BEST FRGRANCE",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 36
+      }
+    },
+    "5d8b6c96-5e1e-4631-917e-69c787546259": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20040277295396__5d8b6c96-5e1e-4631-917e-69c787546259-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>TOP CURATED FRAGRANCES<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--20040277295396__5d8b6c96-5e1e-4631-917e-69c787546259-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We offer the best designer and niche fragrances on the market selected by our team of experts.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--20040277295396__5d8b6c96-5e1e-4631-917e-69c787546259-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "BUY NOW",
+            "button_link": "shopify:\/\/collections\/aromatherapy"
+          }
+        }
+      },
+      "block_order": [
+        "template--20040277295396__5d8b6c96-5e1e-4631-917e-69c787546259-heading-1",
+        "template--20040277295396__5d8b6c96-5e1e-4631-917e-69c787546259-text-1",
+        "template--20040277295396__5d8b6c96-5e1e-4631-917e-69c787546259-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bg-0-desktop_aef261.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ceb28c05-6297-42c7-aa66-5fc1b7ec80e2": {
+      "type": "collection-list",
+      "blocks": {
+        "template--20040277295396__ceb28c05-6297-42c7-aa66-5fc1b7ec80e2-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bath-and-body"
+          }
+        },
+        "template--20040277295396__ceb28c05-6297-42c7-aa66-5fc1b7ec80e2-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "candles"
+          }
+        },
+        "template--20040277295396__ceb28c05-6297-42c7-aa66-5fc1b7ec80e2-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "skin-care"
+          }
+        }
+      },
+      "block_order": [
+        "template--20040277295396__ceb28c05-6297-42c7-aa66-5fc1b7ec80e2-featured_collection-3",
+        "template--20040277295396__ceb28c05-6297-42c7-aa66-5fc1b7ec80e2-featured_collection-1",
+        "template--20040277295396__ceb28c05-6297-42c7-aa66-5fc1b7ec80e2-featured_collection-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0f028aed-b7ba-4eed-a77e-e355e49bd532": {
+      "type": "Countdown-banner",
+      "blocks": {
+        "c5205061-db80-4ed2-90a2-b305f2bd8566": {
+          "type": "text",
+          "settings": {
+            "header": "BUT DON'T JUST TAKE OUR WORD FOR IT",
+            "header_color": "#000000",
+            "header_font_size": 36,
+            "paragraph": "SEE WHAT OVER 500K FRAGRANCE FANATICS HAVE TO SAY",
+            "paragraph_color": "#000000",
+            "paragraph_font_size": 16
+          }
+        }
+      },
+      "block_order": [
+        "c5205061-db80-4ed2-90a2-b305f2bd8566"
+      ],
+      "settings": {
+        "full_width": false,
+        "section_height_desktop": 600,
+        "section_height_mobile": 300,
+        "desktop_image": "shopify:\/\/shop_images\/bg-desktop_1a9621.webp",
+        "blur_amount": 0,
+        "overlay_color": "#000000",
+        "border_radius": 0,
+        "background_color": "#ffffff",
+        "section_padding": 10
+      }
+    },
+    "54e69655-373b-43c5-be42-d170b40a2700": {
+      "type": "testominals",
+      "blocks": {
+        "template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-5": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "66c616a1-7f9c-48ce-a843-38e97b929cec": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "4ab06868-a48c-42df-a2e0-5bc0321c6af6": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "0e53c789-3e8d-4a61-b9b5-22a98d385ae0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-1",
+        "template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-2",
+        "template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-3",
+        "template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-4",
+        "template--20040277295396__54e69655-373b-43c5-be42-d170b40a2700-testimonial-5",
+        "66c616a1-7f9c-48ce-a843-38e97b929cec",
+        "4ab06868-a48c-42df-a2e0-5bc0321c6af6",
+        "0e53c789-3e8d-4a61-b9b5-22a98d385ae0"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "rgba(0,0,0,0)",
+        "color_text": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "7ff84740-c449-40aa-a98e-0fe1b0f0fb5b",
+    "8ec885af-3677-40c4-9c3a-be213ac0fa4f",
+    "featured_collection",
+    "43579be8-d445-46b0-a2c4-e702dbbf4f89",
+    "8532ef33-e07f-4570-aa2e-2a1906e4db5b",
+    "a666f6c8-7713-45e9-a35b-6661692d83ac",
+    "ca00c60c-1272-4fd8-a30e-dd7d87e1262c",
+    "5d8b6c96-5e1e-4631-917e-69c787546259",
+    "ceb28c05-6297-42c7-aa66-5fc1b7ec80e2",
+    "0f028aed-b7ba-4eed-a77e-e355e49bd532",
+    "54e69655-373b-43c5-be42-d170b40a2700"
+  ]
+}
