@@ -1594,3 +1594,6 @@ a.product__text {
     border: none;
   }
 }
+.product__title h1 {
+    font-size: 22px !important;
+}

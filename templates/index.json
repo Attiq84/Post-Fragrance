@@ -8,17 +8,10 @@
           "settings": {
             "header": "GET 20% OFF BY SUBSCRIBING",
             "header_color": "#000000",
-            "header_font_size": 60,
+            "header_font_size": 52,
             "paragraph": "Indulge in new designer scents every month for just $16.95.",
             "paragraph_color": "#000000",
             "paragraph_font_size": 25
-          }
-        },
-        "04383d05-d35d-410a-958f-a8178d7c99f3": {
-          "type": "timer",
-          "settings": {
-            "countdown_date": "Dec 31, 2023",
-            "countdown_text": "END IN:"
           }
         },
         "51cd5452-0f12-44d1-99df-078c222a4fe3": {
@@ -33,12 +26,19 @@
             "button_border_color": "#000000",
             "button_font_size": 16
           }
+        },
+        "04383d05-d35d-410a-958f-a8178d7c99f3": {
+          "type": "timer",
+          "settings": {
+            "countdown_date": "Dec 31, 2023",
+            "countdown_text": "END IN:"
+          }
         }
       },
       "block_order": [
         "e2a2d47c-8008-443e-be5c-fe440243f176",
-        "04383d05-d35d-410a-958f-a8178d7c99f3",
-        "51cd5452-0f12-44d1-99df-078c222a4fe3"
+        "51cd5452-0f12-44d1-99df-078c222a4fe3",
+        "04383d05-d35d-410a-958f-a8178d7c99f3"
       ],
       "settings": {
         "full_width": false,
