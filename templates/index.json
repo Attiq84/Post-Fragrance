@@ -44,7 +44,7 @@
         "full_width": false,
         "section_height_desktop": 550,
         "section_height_mobile": 300,
-        "desktop_image": "shopify:\/\/shop_images\/01.png",
+        "desktop_image": "shopify:\/\/shop_images\/Vegan-Slider-Calismasi-4-min.jpg",
         "blur_amount": 0,
         "overlay_color": "#000000",
         "border_radius": 0,
@@ -201,7 +201,7 @@
     "8532ef33-e07f-4570-aa2e-2a1906e4db5b": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/bg-desktop_e51f66.jpg",
+        "image": "shopify:\/\/shop_images\/o-DEPRESSED-BLACK-MAN-facebook_1.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -392,9 +392,9 @@
         "full_width": false,
         "section_height_desktop": 600,
         "section_height_mobile": 300,
-        "desktop_image": "shopify:\/\/shop_images\/Untitled-2.png",
+        "desktop_image": "shopify:\/\/shop_images\/adult-dark-facial-expression-428340.jpg",
         "blur_amount": 0,
-        "overlay_color": "#000000",
+        "overlay_color": "#fff",
         "border_radius": 0,
         "background_color": "#ffffff",
         "section_padding": 10
