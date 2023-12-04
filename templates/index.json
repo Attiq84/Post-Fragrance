@@ -201,7 +201,7 @@
     "8532ef33-e07f-4570-aa2e-2a1906e4db5b": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/o-DEPRESSED-BLACK-MAN-facebook_1.jpg",
+        "image": "shopify:\/\/shop_images\/088.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -387,6 +387,9 @@
       },
       "block_order": [
         "c5205061-db80-4ed2-90a2-b305f2bd8566"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "full_width": false,
