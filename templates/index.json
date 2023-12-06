@@ -372,7 +372,7 @@
             "image": "shopify:\/\/shop_images\/how-1_9f7abc.jpg",
             "title": "",
             "text": "",
-            "link_label": "Shop Now",
+            "link_label": "Men's  Fragrance",
             "link": "shopify:\/\/collections\/mens-fragrance"
           }
         },
@@ -382,7 +382,7 @@
             "image": "shopify:\/\/shop_images\/how-2_7dcc25.jpg",
             "title": "",
             "text": "",
-            "link_label": "Shop Now",
+            "link_label": "Women's Fragrance",
             "link": "shopify:\/\/collections\/womens-fragrance"
           }
         },
@@ -392,7 +392,7 @@
             "image": "shopify:\/\/shop_images\/how-3_dcf981.jpg",
             "title": "",
             "text": "",
-            "link_label": "Shop Now",
+            "link_label": "Unisex Fragrance",
             "link": "shopify:\/\/collections\/unisex-fragrance"
           }
         }
