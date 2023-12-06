@@ -439,7 +439,7 @@
           "type": "button",
           "settings": {
             "button_label": "BUY NOW",
-            "button_link": "shopify:\/\/collections\/aromatherapy"
+            "button_link": "shopify:\/\/collections\/fragrance"
           }
         }
       },
