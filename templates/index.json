@@ -536,7 +536,7 @@
         "overlay_color": "#ffffff",
         "border_radius": 0,
         "background_color": "#ffffff",
-        "section_padding": 10
+        "section_padding": 0
       }
     },
     "54e69655-373b-43c5-be42-d170b40a2700": {
