@@ -3390,7 +3390,7 @@ h2.section-header__title {
     margin: auto;
     color: white;
 }
-le {
+element.style {
     width: auto;
     height: 550px;
     background-image: url(https://cdn.shopify.com/s/files/1/0796/5664/8996/files/Group_302.png?v=1703077951);
@@ -3398,6 +3398,7 @@ le {
     padding: 0px;
     border-radius: 0px;
     text-align: center;
+    background-position: left;
     background-size: cover;
     overflow: hidden;
     margin: auto;
