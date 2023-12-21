@@ -24,22 +24,7 @@
   overflow: hidden;
       margin: auto;
   color: white;
-">
-  <div style="
-  width: {% if full_width %}320px{% else %}auto{% endif %};
-  height: {{ section_height_mobile }}px;
-  background-image: url({{ mobile_image | img_url: 'master' }});
-  background-color: {{ background_color }};
-  padding: {{ section_padding }}px;
-  border-radius: {{ border_radius }}px;
-  text-align: center;
-      background-position: right;
-    background-size: cover;
-  overflow: hidden;
-      margin: auto;
-  color: white;
-">
-  <div style="
+"
     height: 100px;
     background-image: url({{ mobile_image | img_url: 'master' }});
     background-size: cover;
@@ -48,7 +33,7 @@
   "></div>
 
   <div style="
-    position: right;
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
