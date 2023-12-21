@@ -390,3 +390,18 @@ slider-component.slider-component-full-width {
 .slider-button--prev:not([disabled]):hover .icon {
   transform: rotate(90deg) scale(1.1);
 }
+
+element.style {
+    width: auto;
+    height: 550px;
+    background-image: url(//postfragrance.com/cdn/shop/files/Vegan-Slider-Calismasi-4-min.jpg?v=1701706784);
+    background-color: #ffffff;
+    padding: 0px;
+    border-radius: 0px;
+    text-align: center;
+    background-position: right;
+    background-size: cover;
+    overflow: hidden;
+    margin: auto;
+    color: white;
+}
