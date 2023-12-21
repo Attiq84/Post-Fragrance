@@ -10,11 +10,27 @@
   assign background_color = section.settings.background_color
   assign section_padding = section.settings.section_padding
 %}
- 
+
+
 <div style="
   width: {% if full_width %}80%{% else %}auto{% endif %};
   height: {{ section_height_desktop }}px;
   background-image: url({{ desktop_image | img_url: 'master' }});
+  background-color: {{ background_color }};
+  padding: {{ section_padding }}px;
+  border-radius: {{ border_radius }}px;
+  text-align: center;
+      background-position: left;
+    background-size: cover;
+  overflow: hidden;
+      margin: auto;
+  color: white;
+">
+  
+<div style="
+  width: {% if full_width %}80%{% else %}auto{% endif %};
+  height: {{ section_height_mobile }}px;
+  background-image: url({{ mobile_image | img_url: 'Group_302' }});
   background-color: {{ background_color }};
   padding: {{ section_padding }}px;
   border-radius: {{ border_radius }}px;
