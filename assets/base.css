@@ -3404,3 +3404,8 @@ element.style {
     margin: auto;
     color: white;
 }
+h3, .h3 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
