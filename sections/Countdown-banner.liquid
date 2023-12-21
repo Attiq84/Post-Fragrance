@@ -25,7 +25,23 @@
       margin: auto;
   color: white;
 ">
+<div style="
+    height: 100%;
+    background-image: url({{ mobile_image | img_url: 'master' }});
+    background-size: cover;
+    background_position:center;
+    filter: blur({{ blur_amount }}px);
+  "></div>
 
+  <div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: {{ overlay_color }};
+  "></div>
+  
 <div class="width-text">
   {% for block in section.blocks %}
     {% case block.type %}
