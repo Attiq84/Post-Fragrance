@@ -26,20 +26,11 @@
   color: white;
 ">
   <div style="
- elment.style {
-    width: auto;
-    height: 550px;
-    background-image: url(https://cdn.shopify.com/s/files/1/0796/5664/8996/files/Group_302.png?v=1703077951);
-    background-color: #ffffff;
-    padding: 0px;
-    border-radius: 0px;
-    text-align: center;
-    background-position: left;
+    height: 100%;
+    background-image: url({{ mobile_image | img_url: 'master' }});
     background-size: cover;
-    overflow: hidden;
-    margin: auto;
-    color: white;
-}
+    background_position:center;
+    filter: blur({{ blur_amount }}px);
   "></div>
 
   <div style="
