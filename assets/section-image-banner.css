@@ -487,3 +487,7 @@ element.style {
     mobile display: show:
     desktop display:block;
 } 
+.banner__box > *:first-child {
+    margin-top: 0;
+    color: white;
+}
