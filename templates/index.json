@@ -364,6 +364,7 @@
       "block_order": [
         "template--20040277295396__a666f6c8-7713-45e9-a35b-6661692d83ac-text-1"
       ],
+      "disabled": true,
       "settings": {
       }
     },
@@ -626,6 +627,7 @@
         "4ab06868-a48c-42df-a2e0-5bc0321c6af6",
         "0e53c789-3e8d-4a61-b9b5-22a98d385ae0"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "align_text": "center",
