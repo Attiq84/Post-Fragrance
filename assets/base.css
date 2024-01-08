@@ -3447,3 +3447,8 @@ element.style {
     margin-bottom: 0;
     COLOR: white;
 }
+
+
+.product__description p {
+    color: black !important;
+}
