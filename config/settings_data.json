@@ -135,6 +135,46 @@
     "content_for_index": [
 
     ],
+    "blocks": {
+      "13768625480086291342": {
+        "type": "shopify:\/\/apps\/forms\/blocks\/forms\/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "15683396631634586217": {
+        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": false,
+        "settings": {
+          "button_color": "#000000",
+          "secondary_color": "#FFFFFF",
+          "ternary_color": "#6A6A6A",
+          "button_icon": "chat_bubble",
+          "button_text": "chat_with_us",
+          "button_horizontal_position": "bottom_right",
+          "button_vertical_position": "lowest",
+          "greeting_message": ""
+        }
+      },
+      "15351435345818755577": {
+        "type": "shopify:\/\/apps\/pandectes-gdpr-compliance\/blocks\/banner\/58c0baa2-6cc1-480c-9ea6-38d6d559556a",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "4509415732734807814": {
+        "type": "shopify:\/\/apps\/fordeer-pdf-invoice\/blocks\/invoice\/de589c41-7e2e-4164-8a3d-788e232a4624",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "8698817763995941236": {
+        "type": "shopify:\/\/apps\/fordeer-sales-popup\/blocks\/popup\/10ad4a26-87fb-43fd-8aa9-dd53e003ed28",
+        "disabled": true,
+        "settings": {
+        }
+      }
+    },
     "color_schemes": {
       "background-1": {
         "settings": {
