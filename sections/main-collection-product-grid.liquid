@@ -1,3 +1,5 @@
+{%  if product.available %}
+
 {{ 'template-collection.css' | asset_url | stylesheet_tag }}
 {{ 'component-loading-overlay.css' | asset_url | stylesheet_tag }}
 {{ 'component-card.css' | asset_url | stylesheet_tag }}
@@ -193,6 +195,8 @@
     {% render 'mask-arch' %}
   {%- endif -%}
 </div>
+
+{%  endif %}
 
 {% schema %}
 {
