@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "7ff84740-c449-40aa-a98e-0fe1b0f0fb5b": {
@@ -18,7 +27,7 @@
           "type": "button",
           "settings": {
             "button_text": "BUY NOW",
-            "button_url": "https:\/\/postfragrance.com\/collections\/fragrance",
+            "button_url": "https://postfragrance.com/collections/fragrance",
             "button_text_color": "#ffffff",
             "button_background_color": "#000000",
             "button_border_radius": 0,
@@ -44,8 +53,8 @@
         "full_width": false,
         "section_height_desktop": 550,
         "section_height_mobile": 300,
-        "desktop_image": "shopify:\/\/shop_images\/Vegan-Slider-Calismasi-4-min.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/Group_302.png",
+        "desktop_image": "shopify://shop_images/Vegan-Slider-Calismasi-4-min.jpg",
+        "mobile_image": "shopify://shop_images/Group_302.png",
         "blur_amount": 0,
         "overlay_color": "#000000",
         "border_radius": 0,
@@ -59,7 +68,7 @@
         "template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-1": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brands_-3.png",
+            "image": "shopify://shop_images/brands_-3.png",
             "title": "",
             "link": ""
           }
@@ -67,7 +76,7 @@
         "template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-2": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brands_-2.png",
+            "image": "shopify://shop_images/brands_-2.png",
             "title": "",
             "link": ""
           }
@@ -75,7 +84,7 @@
         "template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-3": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brands_-4.png",
+            "image": "shopify://shop_images/brands_-4.png",
             "title": "",
             "link": ""
           }
@@ -83,7 +92,7 @@
         "template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-4": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brands_-5.png",
+            "image": "shopify://shop_images/brands_-5.png",
             "title": "",
             "link": ""
           }
@@ -91,7 +100,7 @@
         "template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-5": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brands_9200d8_copy.png",
+            "image": "shopify://shop_images/brands_9200d8_copy.png",
             "title": "",
             "link": ""
           }
@@ -99,7 +108,7 @@
         "template--20040277295396__8ec885af-3677-40c4-9c3a-be213ac0fa4f-logo_image-6": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brands_-1.png",
+            "image": "shopify://shop_images/brands_-1.png",
             "title": "",
             "link": ""
           }
@@ -107,7 +116,7 @@
         "a5f51a8d-a4a5-4bca-9d42-dd0fb3e50eba": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brands_-4.png",
+            "image": "shopify://shop_images/brands_-4.png",
             "title": "",
             "link": ""
           }
@@ -115,7 +124,7 @@
         "55b3e7f6-0d96-4547-bb30-4331df2d2cd2": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brands_-2.png",
+            "image": "shopify://shop_images/brands_-2.png",
             "title": "",
             "link": ""
           }
@@ -131,9 +140,7 @@
         "a5f51a8d-a4a5-4bca-9d42-dd0fb3e50eba",
         "55b3e7f6-0d96-4547-bb30-4331df2d2cd2"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "title": "BRANDS",
         "logo_opacity": 100,
@@ -143,6 +150,7 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Featured products",
         "heading_size": "h2",
@@ -169,6 +177,61 @@
         "padding_bottom": 36
       }
     },
+    "ca00c60c-1272-4fd8-a30e-dd7d87e1262c": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/20096375.webp",
+            "title": "",
+            "text": "",
+            "link_label": "Men's  Fragrance",
+            "link": "shopify://collections/mens-fragrance"
+          }
+        },
+        "template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/12022913.webp",
+            "title": "",
+            "text": "",
+            "link_label": "Women's Fragrance",
+            "link": "shopify://collections/womens-fragrance"
+          }
+        },
+        "template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/10010811.webp",
+            "title": "",
+            "text": "",
+            "link_label": "Unisex Fragrance",
+            "link": "shopify://collections/unisex-fragrance"
+          }
+        }
+      },
+      "block_order": [
+        "template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-1",
+        "template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-2",
+        "template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-3"
+      ],
+      "settings": {
+        "title": "OUR BEST FRGRANCE",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 72
+      }
+    },
     "43579be8-d445-46b0-a2c4-e702dbbf4f89": {
       "type": "rich-text",
       "blocks": {
@@ -182,7 +245,7 @@
         "template--20040277295396__43579be8-d445-46b0-a2c4-e702dbbf4f89-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
           }
         }
       },
@@ -206,7 +269,7 @@
         "template--20770025963812__aeee00d2-edbf-4879-9a7f-44ed3a2da52e-slide-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/088_4.png",
+            "image": "shopify://shop_images/088_4.png",
             "heading": "Our Brand",
             "heading_size": "h1",
             "subheading": "At Post fragrance, we believe that every scent has a story to tell, a memory to evoke, and a mood to create. Our passion for fragrances and aromatherapy has driven us to curate a collection that embodies the artistry of scent creation and the therapeutic power of essential oils.",
@@ -224,7 +287,7 @@
         "template--20770025963812__aeee00d2-edbf-4879-9a7f-44ed3a2da52e-slide-2": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/088_11.png",
+            "image": "shopify://shop_images/088_11.png",
             "heading": "Our Brand",
             "heading_size": "h1",
             "subheading": "Post fragrance was born out of a deep appreciation for the profound impact scents have on our emotions and well-being. With a team of dedicated experts in fragrance blending and aromatherapy, we embarked on a journey to bring together a meticulously selected range of products that cater to diverse preferences and purposes.",
@@ -243,7 +306,7 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/088_1.png",
+            "image": "shopify://shop_images/088_1.png",
             "heading": "Our Brand",
             "heading_size": "h1",
             "subheading": "Exquisite Fragrances: Discover a captivating assortment of perfumes, colognes, and home fragrances crafted by renowned perfumers from around the world. From fresh and invigorating to warm and comforting, our fragrances cater to every mood and occasion.",
@@ -261,7 +324,7 @@
         "2dae52e9-476d-471f-8546-02e6360ec2e7": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/088_9.png",
+            "image": "shopify://shop_images/088_9.png",
             "heading": "Our Brand",
             "heading_size": "h1",
             "subheading": "Immerse yourself in the world of aromatherapy with our range of essential oils, diffusers, and blends. Harness the natural power of plants to promote relaxation, boost energy, relieve stress, and create an ambiance of serenity.",
@@ -279,7 +342,7 @@
         "8135a7e9-fa58-425b-9328-f88348ae8366": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/05.jpg",
+            "image": "shopify://shop_images/05.jpg",
             "heading": "Our Brand",
             "heading_size": "h1",
             "subheading": "Our experts are here to guide you on your fragrance journey. Whether you're seeking a signature scent or specific aromatherapy benefits, we're dedicated to helping you find the perfect match",
@@ -297,7 +360,7 @@
         "26804891-d7dd-42c4-997f-b75c8643363e": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/088_2.png",
+            "image": "shopify://shop_images/088_2.png",
             "heading": "Our Brand",
             "heading_size": "h1",
             "subheading": "We're committed to sourcing high-quality products that are both luxurious and environmentally conscious. Many of our products are cruelty-free, eco-friendly, and packaged with sustainability in mind.",
@@ -321,9 +384,7 @@
         "8135a7e9-fa58-425b-9328-f88348ae8366",
         "26804891-d7dd-42c4-997f-b75c8643363e"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
@@ -339,7 +400,7 @@
       "type": "image-banner",
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/088.jpg",
+        "image": "shopify://shop_images/088.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -366,63 +427,7 @@
         "template--20040277295396__a666f6c8-7713-45e9-a35b-6661692d83ac-text-1"
       ],
       "disabled": true,
-      "settings": {
-      }
-    },
-    "ca00c60c-1272-4fd8-a30e-dd7d87e1262c": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/20096375.webp",
-            "title": "",
-            "text": "",
-            "link_label": "Men's  Fragrance",
-            "link": "shopify:\/\/collections\/mens-fragrance"
-          }
-        },
-        "template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/12022913.webp",
-            "title": "",
-            "text": "",
-            "link_label": "Women's Fragrance",
-            "link": "shopify:\/\/collections\/womens-fragrance"
-          }
-        },
-        "template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/10010811.webp",
-            "title": "",
-            "text": "",
-            "link_label": "Unisex Fragrance",
-            "link": "shopify:\/\/collections\/unisex-fragrance"
-          }
-        }
-      },
-      "block_order": [
-        "template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-1",
-        "template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-2",
-        "template--20040277295396__ca00c60c-1272-4fd8-a30e-dd7d87e1262c-column-3"
-      ],
-      "settings": {
-        "title": "OUR BEST FRGRANCE",
-        "image_width": "full",
-        "image_ratio": "circle",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 80,
-        "padding_bottom": 36
-      }
+      "settings": {}
     },
     "5d8b6c96-5e1e-4631-917e-69c787546259": {
       "type": "image-with-text",
@@ -430,14 +435,14 @@
         "template--20040277295396__5d8b6c96-5e1e-4631-917e-69c787546259-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>TOP CURATED FRAGRANCES<\/strong>",
+            "heading": "<strong>TOP CURATED FRAGRANCES</strong>",
             "heading_size": "h1"
           }
         },
         "template--20040277295396__5d8b6c96-5e1e-4631-917e-69c787546259-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We offer the best designer and niche fragrances on the market selected by our team of experts.<\/p>",
+            "text": "<p>We offer the best designer and niche fragrances on the market selected by our team of experts.</p>",
             "text_style": "body"
           }
         },
@@ -445,7 +450,7 @@
           "type": "button",
           "settings": {
             "button_label": "BUY NOW",
-            "button_link": "shopify:\/\/collections\/fragrance"
+            "button_link": "shopify://collections/fragrance"
           }
         }
       },
@@ -455,7 +460,7 @@
         "template--20040277295396__5d8b6c96-5e1e-4631-917e-69c787546259-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/bg-0-desktop_aef261.webp",
+        "image": "shopify://shop_images/bg-0-desktop_aef261.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -527,14 +532,12 @@
       "block_order": [
         "c5205061-db80-4ed2-90a2-b305f2bd8566"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "full_width": false,
         "section_height_desktop": 600,
         "section_height_mobile": 300,
-        "desktop_image": "shopify:\/\/shop_images\/05.jpg",
+        "desktop_image": "shopify://shop_images/05.jpg",
         "blur_amount": 0,
         "overlay_color": "#ffffff",
         "border_radius": 0,
@@ -549,7 +552,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "author_info": "Los Angeles, CA"
           }
@@ -558,7 +561,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "author_info": "Los Angeles, CA"
           }
@@ -567,7 +570,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "author_info": "Los Angeles, CA"
           }
@@ -576,7 +579,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "author_info": "Los Angeles, CA"
           }
@@ -585,7 +588,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "author_info": "Los Angeles, CA"
           }
@@ -594,7 +597,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "author_info": "Los Angeles, CA"
           }
@@ -603,7 +606,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "author_info": "Los Angeles, CA"
           }
@@ -612,7 +615,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "author_info": "Los Angeles, CA"
           }
@@ -642,11 +645,11 @@
     "7ff84740-c449-40aa-a98e-0fe1b0f0fb5b",
     "8ec885af-3677-40c4-9c3a-be213ac0fa4f",
     "featured_collection",
+    "ca00c60c-1272-4fd8-a30e-dd7d87e1262c",
     "43579be8-d445-46b0-a2c4-e702dbbf4f89",
     "aeee00d2-edbf-4879-9a7f-44ed3a2da52e",
     "8532ef33-e07f-4570-aa2e-2a1906e4db5b",
     "a666f6c8-7713-45e9-a35b-6661692d83ac",
-    "ca00c60c-1272-4fd8-a30e-dd7d87e1262c",
     "5d8b6c96-5e1e-4631-917e-69c787546259",
     "ceb28c05-6297-42c7-aa66-5fc1b7ec80e2",
     "0f028aed-b7ba-4eed-a77e-e355e49bd532",
