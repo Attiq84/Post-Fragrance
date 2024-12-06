@@ -38,6 +38,7 @@
         },
         "04383d05-d35d-410a-958f-a8178d7c99f3": {
           "type": "timer",
+          "disabled": true,
           "settings": {
             "countdown_date": "Dec 31, 2023",
             "countdown_text": "END IN:"
