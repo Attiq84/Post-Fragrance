@@ -484,23 +484,23 @@
             "collection": "bath-and-body"
           }
         },
-        "template--20040277295396__ceb28c05-6297-42c7-aa66-5fc1b7ec80e2-featured_collection-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "candles"
-          }
-        },
         "template--20040277295396__ceb28c05-6297-42c7-aa66-5fc1b7ec80e2-featured_collection-2": {
           "type": "featured_collection",
           "settings": {
             "collection": "skin-care"
           }
+        },
+        "featured_collection_jBfAfa": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "unisex-fragrance"
+          }
         }
       },
       "block_order": [
         "template--20040277295396__ceb28c05-6297-42c7-aa66-5fc1b7ec80e2-featured_collection-3",
-        "template--20040277295396__ceb28c05-6297-42c7-aa66-5fc1b7ec80e2-featured_collection-1",
-        "template--20040277295396__ceb28c05-6297-42c7-aa66-5fc1b7ec80e2-featured_collection-2"
+        "template--20040277295396__ceb28c05-6297-42c7-aa66-5fc1b7ec80e2-featured_collection-2",
+        "featured_collection_jBfAfa"
       ],
       "settings": {
         "title": "",
